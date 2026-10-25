@@ -22,3 +22,5 @@ Existing players: fully close WoW and follow the numbered READ-ME-FIRST.txt in e
 - [ChannelNoticeCompat 1.0](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/channelnoticecompat-1.0) — ChannelNoticeCompat compatibility fixes.
 
 New players: [RealmAddons](https://github.com/Dopey99101/wow-335a-addon-updates/releases/latest) or [RealmAddonsManual](https://github.com/Dopey99101/wow-335a-addon-updates-manual/releases/latest).
+
+- [BarberGuard 1.0](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/barberguard-1.0) — high-level barber-chair crash fix.

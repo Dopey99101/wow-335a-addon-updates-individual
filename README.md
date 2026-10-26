@@ -26,3 +26,5 @@ New players: [RealmAddons](https://github.com/Dopey99101/wow-335a-addon-updates/
 - [BarberGuard 1.0](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/barberguard-1.0) — high-level barber-chair crash fix.
 
 - [BarberGuard 1.1](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/barberguard-1.1) — high-level barber-chair crash fix.
+
+- [DeadlyBossMods 1.0](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/deadlybossmods-1.0) — DBM options and missing statistics crash fix.

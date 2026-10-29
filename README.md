@@ -32,3 +32,5 @@ New players: [RealmAddons](https://github.com/Dopey99101/wow-335a-addon-updates/
 - [DressMePreview 1.2](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/dressmepreview-1.2) — Automatic cumulative addon update; Lua/XML and archive integrity checked.
 
 - [TrinityAdmin 1.1](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/trinityadmin-1.1) — Automatic cumulative addon update; Lua/XML and archive integrity checked.
+
+- [Auctionator 1.1](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/auctionator-1.1) — Automatic cumulative addon update; Lua/XML and archive integrity checked.

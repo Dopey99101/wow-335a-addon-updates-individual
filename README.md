@@ -34,3 +34,5 @@ New players: [RealmAddons](https://github.com/Dopey99101/wow-335a-addon-updates/
 - [TrinityAdmin 1.2](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/trinityadmin-1.2) — Automatic cumulative addon update; Lua/XML and archive integrity checked.
 
 - [RealmCalendar 1.0](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/realmcalendar-1.0) — Automatic cumulative addon update; Lua/XML and archive integrity checked.
+
+- [DressMePreview 1.3](https://github.com/Dopey99101/wow-335a-addon-updates-individual/releases/tag/dressmepreview-1.3) — Automatic cumulative addon update; Lua/XML and archive integrity checked.
